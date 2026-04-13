@@ -13,9 +13,9 @@ dependencies:
   - matplotlib
   - pandas
   - pip
-  - geemap
-  - ee
+  - earthengine-api
   - pip:
+      - geemap
       - myst-nb
       - nbsphinx
       - sphinx-rtd-theme
