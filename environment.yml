@@ -12,3 +12,4 @@ dependencies:
       - myst-nb
       - nbsphinx
       - sphinx-rtd-theme
+      - sphinx-book-theme
