@@ -6,8 +6,15 @@ dependencies:
   - sphinx
   - pyrosm
   - geopandas
+  - fiona   
+  - shapely  
+  - pyproj     
   - cartopy
+  - matplotlib
+  - pandas
   - pip
+  - geemap
+  - ee
   - pip:
       - myst-nb
       - nbsphinx
