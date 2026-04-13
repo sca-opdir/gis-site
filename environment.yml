@@ -6,6 +6,7 @@ dependencies:
   - sphinx
   - pyrosm
   - geopandas
+  - geopy
   - fiona   
   - shapely  
   - pyproj     
