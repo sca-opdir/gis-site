@@ -1,0 +1,14 @@
+name: gis-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - sphinx
+  - pyrosm
+  - geopandas
+  - cartopy
+  - pip
+  - pip:
+      - myst-nb
+      - nbsphinx
+      - sphinx-rtd-theme
