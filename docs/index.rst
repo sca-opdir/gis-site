@@ -1,16 +1,11 @@
-Automating GIS Processes 2025
+Some GIS stuff for OPDir
 =================================
 
-**Welcome to the Automating GIS processes course!** Through interactive
-lessons and hands-on exercises, this course introduces you to geographic data
-analysis using the Python programming language. If you are new to Python, we
-recommend you first start with the *Geo-Python* course
-(`geo-python.readthedocs.io <https://geo-python.readthedocs.io/>`_) before diving
-into using it for GIS analyses in this course.
+**Welcome** 
 
-*Geo-Python* and *Automating GIS Processes* (‘AutoGIS’) have been developed by the Department of Geosciences and Geography at the University of Helsinki, Finland. The course has been planned and organized by the `Digital Geography Lab <https://www.helsinki.fi/en/researchgroups/digital-geography-lab>`_. The teaching materials are openly accessible for anyone interested in learning.
+Some GIS programming that might be useful for the analysis of OPDir data
 
-
+Inspired from : https://autogis-site.readthedocs.io/en/latest/
 .. admonition:: **Acknowledgements**
    :class: info
 
@@ -162,54 +157,6 @@ Contents
    lessons/lesson-2/map-projections
    lessons/lesson-2/exercise-2
 
-.. toctree::
-   :caption: Lesson 3
-   :maxdepth: 2
-
-   lessons/lesson-3/overview
-   lessons/lesson-3/geocoding
-   lessons/lesson-3/geocoding-in-geopandas
-   lessons/lesson-3/point-in-polygon-queries
-   lessons/lesson-3/intersect
-   lessons/lesson-3/spatial-join
-   lessons/lesson-3/exercise-3
-
-.. toctree::
-   :caption: Lesson 4
-   :maxdepth: 2
-
-   lessons/lesson-4/overview
-   lessons/lesson-4/overlay-analysis
-   lessons/lesson-4/vector-data-aggregating
-   lessons/lesson-4/simplifying-geometries
-   lessons/lesson-4/reclassifying-data
-   lessons/lesson-4/exercise-4
-
-.. toctree::
-   :caption: Lesson 5
-   :maxdepth: 2
-
-   lessons/lesson-5/overview
-   lessons/lesson-5/static-maps
-   lessons/lesson-5/interactive-maps
-   lessons/lesson-5/exercise-5
-
-.. toctree::
-   :caption: Lesson 6
-   :maxdepth: 2
-
-   lessons/lesson-6/overview
-   lessons/lesson-6/retrieve-data-from-openstreetmap
-   lessons/lesson-6/network-analysis
-
-.. toctree::
-    :caption: Lesson 7
-    :maxdepth: 2
-
-    lessons/lesson-7/overview
-    lessons/lesson-7/Raster-explore
-    lessons/lesson-7/Raster-processing
-    lessons/lesson-7/exercise-6
 ..
 .. toctree::
    :caption: Final Assignment
